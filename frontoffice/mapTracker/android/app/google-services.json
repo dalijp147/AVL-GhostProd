@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318668996612",
+    "firebase_url": "https://databasettest-default-rtdb.firebaseio.com",
+    "project_id": "databasettest",
+    "storage_bucket": "databasettest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318668996612:android:51f75dc8629b942e32f551",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318668996612-sd6sdndf66tmfle797skreo9rk1qh5ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1pD8xBcvd2B9Gjkj7yRbqwwZ1Aou8L6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318668996612-sd6sdndf66tmfle797skreo9rk1qh5ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

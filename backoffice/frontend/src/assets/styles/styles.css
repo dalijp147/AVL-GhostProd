@@ -1,0 +1,46 @@
+.treeviewImage{
+    width: 120px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.ButtonTheme{
+    background-color: #1e758d;
+    border-color:#1e758d;
+}
+
+.ant-btn-primary {
+    background-color: #1e758d!important;
+    border-color: #1e758d!important;
+}
+
+.ant-btn-primary:hover {
+    background-color: #155263!important;
+    border-color: #155263!important;
+}
+
+.ant-btn-default {
+    color: #1e758d!important;
+    border-color: #1e758d!important;
+}
+
+.ant-btn-default:hover {
+    color: #155263!important;
+    border-color: #155263!important;
+}
+
+.ant-btn-link {
+    border: unset!important;
+    color: #1e758d!important;
+    border-color: #1e758d!important;
+}
+
+.ant-btn-link:hover {
+    color: #155263!important;
+    border-color: #155263!important;
+}
+
+.ant-modal-content {
+    border-radius: 10px;
+  }
